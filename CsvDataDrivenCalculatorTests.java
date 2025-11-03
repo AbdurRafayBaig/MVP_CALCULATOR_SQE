@@ -17,3 +17,4 @@ class CsvDataDrivenCalculatorTests {
 		System.out.println(category + " case passed: " + a + " + " + b + " = " + result);
 	}
 }
+
