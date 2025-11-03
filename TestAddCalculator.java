@@ -103,3 +103,4 @@ class TestAddCalculator {
 		assertEquals(n1 + n2, result, EPS, "add_withNegativeZero failed");
 	}
 }
+
