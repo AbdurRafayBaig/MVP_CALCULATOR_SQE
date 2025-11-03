@@ -105,3 +105,4 @@ class TestDivideCalculator {
 		assertEquals(n1 / n2, result, EPS, "divideNegativeByDecimal failed");
 	}
 }
+
