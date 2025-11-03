@@ -103,3 +103,4 @@ class TestSubtractCalculator {
 		assertEquals(n1 - n2, result, EPS, "subtractWithNegativeZero failed");
 	}
 }
+
